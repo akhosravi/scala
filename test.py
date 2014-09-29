@@ -3,3 +3,4 @@ for i in range(10):
  print (str(i))
  print("####")
 print("finish")
+list=[1,2,3]
